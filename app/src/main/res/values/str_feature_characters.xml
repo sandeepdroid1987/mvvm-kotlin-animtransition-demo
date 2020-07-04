@@ -1,0 +1,16 @@
+<resources>
+    <string name="characters_screen_title">Characters</string>
+    <string name="character_details_screen_title">Character Details</string>
+    <string name="character_details_status">Status</string>
+    <string name="character_details_gender">Gender</string>
+    <string name="character_details_species">Specie</string>
+    <string name="character_details_type">Type</string>
+    <string name="character_details_location">Location</string>
+
+    <string name="character_location_dimension">Dimension: %s</string>
+    <string name="character_location_type">Type: %s</string>
+    <string name="character_location_name">Name: %s</string>
+
+    <!-- Animations -->
+    <string name="character_transition_poster">characterPosterTransition</string>
+</resources>

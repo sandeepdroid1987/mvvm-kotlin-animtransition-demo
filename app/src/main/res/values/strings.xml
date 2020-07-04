@@ -1,5 +1,15 @@
 <resources>
     <string name="app_name">Urban Homework</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_refresh">Refresh</string>
+
+    <string name="failure_network_connection">No Network Connection.</string>
+    <string name="failure_server_error">Server Error</string>
+    <string name="failure_characters_list_unavailable">Characters Unavailable.</string>
+    <string name="failure_character_non_existent">Character Not Existent.</string>
+
+    <string name="content_description_empty">No content description.</string>
+
+    <string name="info_not_available">Not Available</string>
+
 </resources>
